@@ -649,7 +649,7 @@ public:
 };
 
 /*
-MUST BE SETTED
+MUST BE SET
 */
 GLdouble Racket::gateOffset = 30.0;
 GLdouble Racket::width = 10.0;
