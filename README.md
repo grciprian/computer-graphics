@@ -8,10 +8,13 @@ PonGame puts into play a 1 vs 1 competition. Each of the players controls a vert
 The goal is for one of the players to get the winning score before the other.
 
 ## Controls
-W / S == UP / DOWN left player
-P / L = UP / DOWN right player
-SPACE = START / PAUSE GAME
-R = RESET / REMATCH GAME
+<b>W / S</b> = UP / DOWN left player
+
+<b>P / L</b> = UP / DOWN right player
+
+<b>SPACE</b> = START / PAUSE GAME
+
+<b>R</b> = RESET / REMATCH GAME
 
 ## Trailer
 ![gif-trailer](docs/preview.gif)
